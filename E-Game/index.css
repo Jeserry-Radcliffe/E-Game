@@ -1,0 +1,40 @@
+*{
+    box-sizing:border-box;
+    font-family:'Poppins', sans-serif;
+    margin:0px;
+    padding:0px;
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #F68A11;
+    background-size:cover;
+    background-position: center;
+    padding: 10px 8%;
+}
+.logo img{
+    width:60%;
+    min-height:60vh;
+    position: fixed;
+    margin-left:130px;
+    padding:0px
+}
+button{
+    width:15%;
+    min-height:7vh;
+    position: fixed;
+    margin-top:35%;
+    margin-left:34%;
+    border-radius:5px;
+    border-color:#0b3c06;
+    box-shadow: none;
+    background-color:#0b3c06
+}
+button p span {
+    font-weight:20;
+    font-size:22px;
+    color:white;
+    font-family:Luckiest Guy;
+
+}
